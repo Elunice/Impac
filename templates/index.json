@@ -116,6 +116,29 @@
     },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "richtext_EgAzHc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3></h3><h3></h3><h3><em><strong>Health is more than human</strong></em></h3>"
+          }
+        },
+        "button_f4DYDB": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Shop Now",
+            "url": "shopify://collections/all",
+            "background": "#2d2f73",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_EgAzHc",
+        "button_f4DYDB"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
