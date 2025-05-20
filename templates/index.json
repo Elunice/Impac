@@ -58,7 +58,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/Hearts_That_Purr_Logo.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 84,
             "icon_width": 88,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -72,7 +72,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/For_The_Love_Of_Cats_Logo.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 80,
             "icon_width": 120,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -86,7 +86,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images__23_-removebg-preview.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 76,
             "icon_width": 120,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -100,7 +100,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images__22_-removebg-preview.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 80,
             "icon_width": 104,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -114,7 +114,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images__24_-removebg-preview.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 84,
             "icon_width": 120,
             "icon_background_type": "circle",
             "icon_background": "",
@@ -151,8 +151,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Dog_is_Human_Selects_DKS_033_1.jpg",
-        "mobile_image": "shopify://shop_images/Dog_is_Human_Selects_DKS_010_7.jpg",
+        "image": "shopify://shop_images/hero_desktop_2f9b43e3cd.png",
+        "mobile_image": "shopify://shop_images/hero_768_3b95f15e3e.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -232,7 +232,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Dog_is_Human_Selects_DKS_033_1.jpg",
+            "image": "shopify://shop_images/why_petlabco_8ac12c869d.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
