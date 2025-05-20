@@ -341,6 +341,7 @@
         },
         "variant-picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -379,7 +380,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "2025-chews-dog-repellent-chewable-tablets-suit-for-the-dog-over-25lbs-contains-flaxseed-and-vitamin-complex",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
