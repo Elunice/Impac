@@ -53,34 +53,6 @@
     "text_with_icons_tK6xc3": {
       "type": "text-with-icons",
       "blocks": {
-        "item_FCJmTd": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/Hearts_That_Purr_Logo.png",
-            "mobile_icon_width": 84,
-            "icon_width": 88,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_VjFCUR": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/For_The_Love_Of_Cats_Logo.png",
-            "mobile_icon_width": 80,
-            "icon_width": 120,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
         "item_V36qa4": {
           "type": "item",
           "settings": {
@@ -125,8 +97,6 @@
         }
       },
       "block_order": [
-        "item_FCJmTd",
-        "item_VjFCUR",
         "item_V36qa4",
         "item_rqTnCH",
         "item_VUURAH"
