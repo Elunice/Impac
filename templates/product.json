@@ -105,6 +105,38 @@
         "input_text_color": ""
       }
     },
+    "1747832443d73c2912": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_CmDzeV": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_CmDzeV"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "tabs_jGjhgj": {
       "type": "tabs",
       "blocks": {
@@ -143,6 +175,47 @@
         "heading_gradient": ""
       }
     },
+    "slideshow_gYUmpd": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Nk7XLU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/allergy_itch_0bb9360c7b_9152349721.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Nk7XLU"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "impact_text_rtHqgW": {
       "type": "impact-text",
       "blocks": {
@@ -177,38 +250,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "1747832443d73c2912": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_CmDzeV": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_CmDzeV"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
       }
     },
     "feature_chart_Yagh4d": {
@@ -326,6 +367,47 @@
         "chart_background": "",
         "chart_text_color": "",
         "chart_true_false_color": ""
+      }
+    },
+    "slideshow_q49ncm": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XAPJeC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/joints_335069223d_495d7d15c3.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XAPJeC"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "testimonials_KgEjPL": {
@@ -466,10 +548,12 @@
   },
   "order": [
     "main",
-    "tabs_jGjhgj",
-    "impact_text_rtHqgW",
     "1747832443d73c2912",
+    "tabs_jGjhgj",
+    "slideshow_gYUmpd",
+    "impact_text_rtHqgW",
     "feature_chart_Yagh4d",
+    "slideshow_q49ncm",
     "testimonials_KgEjPL",
     "faq_EJg7pM",
     "related-products"
