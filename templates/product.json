@@ -566,36 +566,68 @@
         "item_9CfQU3": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "At what age can my pup start using these?",
+            "content": "<p>The Multivitamin is suitable for dogs of all ages and breeds. However, we do recommend dogs begin to incorporate the chews into their daily routine starting at an age of 3 months or older.<br/><br/></p>"
           }
         },
         "item_9Ymm3B": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "What does 100% Human-Grade mean?",
+            "content": "<p>Most pet supplements from other brands contain palm oil, fillers, artificial flavoring, preservatives, etc. At Dog is Human, we’re raising the standards of pet health by only using the highest quality human-grade ingredients, which is what our best friends deserve.</p>"
           }
         },
         "item_qybqqH": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "How long until I start seeing the benefits?",
+            "content": "<p>The benefits that most dogs feel—less itching, more activity, better mood—are just bonuses to improving their long-term health. If taken consistently on a daily basis, most dogs will start to see positive effects in about 6-8 weeks.<br/><br/></p>"
+          }
+        },
+        "item_87wbt3": {
+          "type": "item",
+          "settings": {
+            "title": "How many chews come in a jar?",
+            "content": "<p>There are 60 Chews in each jar, which is a 2 month supply for Small Dogs (0-25 lbs), 1 month supply for Medium Dogs (25-75 lbs), or 3 week supply for Large Dogs (75+ lbs).</p>"
+          }
+        },
+        "item_BKf3F4": {
+          "type": "item",
+          "settings": {
+            "title": "What flavor is the Multivitamin?",
+            "content": "<p>Our Multivitamin is made with the highest quality human-grade chicken liver, a flavor that dogs absolutely love. In the case of a chicken allergy, get our Beef Multivitamin</p>"
+          }
+        },
+        "item_i9NxTx": {
+          "type": "item",
+          "settings": {
+            "title": "What happens if I accidentally give my dog too many chews?",
+            "content": "<p>In the event that your dog accidentally consumes significantly more than the daily recommended dose, consult your vet for advice.</p>"
+          }
+        },
+        "item_UDT7xW": {
+          "type": "item",
+          "settings": {
+            "title": "Can I take this dog multivitamin with other supplements?",
+            "content": "<p>Our veterinary team formulated DM-01 with natural ingredients that can be taken both alone or as a complementary product with other common and more targeted pet supplements. Nevertheless, we still recommend checking with your vet.</p>"
           }
         }
       },
       "block_order": [
         "item_9CfQU3",
         "item_9Ymm3B",
-        "item_qybqqH"
+        "item_qybqqH",
+        "item_87wbt3",
+        "item_BKf3F4",
+        "item_i9NxTx",
+        "item_UDT7xW"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "",
+        "content": "<h3>We Want You To Question</h3>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
