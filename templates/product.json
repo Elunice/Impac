@@ -152,7 +152,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredients",
-            "content": "<ul><li>Active IngredientQuantity (Per chew)</li><li>​​Glucosamine HCl (shrimp and crab)200 MG</li><li>Methylsulfonylmethane (MSM)100 MG</li><li>Total Microorganisms DDS-1 (Lactobacillus acidophilus) ProDURA (Bacillus coagulans) Enterococcus faecium500 million CFU</li><li>Wild Alaskan Salmon Oil95 MG</li><li>Vitamin A1000 IU</li><li>CoQ1010 MG</li><li>Natural Vitamin E4 IU</li><li>Riboflavin (Vitamin B2)1 MG</li><li>Pyridoxine (Vitamin B6)1 MG</li><li>Folic Acid (Vitamin B9)0.22 MG</li><li>Methylcobalamin (Vitamin B12)0.005 MG</li><li>Vitamin D30.002 MG</li><li><a href=\"https://dogishuman.com/products/multivitamin?selling_plan=1445724221#\"><em>Inactive Ingredients:</em></a><em>chicken liver, coconut glycerin, coconut oil, brewers yeast, buffered white distilled vinegar, citric acid, natural hickory smoke flavor, rosemary extract, sunflower lecithin, sunflower oil, tapioca starch</em></li></ul>",
+            "content": "<ul><li>Active IngredientQuantity (Per chew)</li><li>​​Glucosamine HCl (shrimp and crab)200 MG</li><li>Methylsulfonylmethane (MSM)100 MG</li><li>Total Microorganisms DDS-1 (Lactobacillus acidophilus) ProDURA (Bacillus coagulans) Enterococcus faecium500 million CFU</li><li>Wild Alaskan Salmon Oil95 MG</li><li>Vitamin A1000 IU</li><li>CoQ1010 MG</li><li>Natural Vitamin E4 IU</li><li>Riboflavin (Vitamin B2)1 MG</li><li>Pyridoxine (Vitamin B6)1 MG</li><li>Folic Acid (Vitamin B9)0.22 MG</li><li>Methylcobalamin (Vitamin B12)0.005 MG</li><li>Vitamin D30.002 MG</li></ul><p>      <br/>         *<a href=\"https://dogishuman.com/products/multivitamin?selling_plan=1445724221#\"><em>Inactive Ingredients:</em></a><em>chicken liver, coconut glycerin, coconut oil, brewers yeast, buffered white distilled vinegar, citric acid, natural hickory smoke flavor, rosemary extract, sunflower lecithin, sunflower oil, tapioca starch</em></p>",
             "page": ""
           }
         }
@@ -173,6 +173,91 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "media_grid_EzRhPM": {
+      "type": "media-grid",
+      "blocks": {
+        "image_U7NqaH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/stella_b561791f-5bb8-4e59-a756-6b1aae8ba7a9.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_P7xKKM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/waltergeoffreythefrenchie_2.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_z8afmD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Dog_Reaching_1.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_U7NqaH",
+        "image_P7xKKM",
+        "image_z8afmD"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
       }
     },
     "slideshow_gYUmpd": {
@@ -550,6 +635,7 @@
     "main",
     "1747832443d73c2912",
     "tabs_jGjhgj",
+    "media_grid_EzRhPM",
     "slideshow_gYUmpd",
     "impact_text_rtHqgW",
     "feature_chart_Yagh4d",
