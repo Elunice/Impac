@@ -175,6 +175,63 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_wQUKke": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_YW69tj": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_ikniMM": {
+          "type": "heading",
+          "settings": {
+            "text": "Formulated and Praised by Leading Vets",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_6kR9gK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>\"DM-01 is the most effective, well-rounded supplement on the market. I would recommend it to any dog parent looking for comprehensive, daily support.\"</p>"
+          }
+        },
+        "subheading_FmkYYq": {
+          "type": "subheading",
+          "settings": {
+            "text": "Dr. Jessica Edmeier, DVM"
+          }
+        },
+        "image_P6zh8G": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jess_Edmeier.png",
+            "width_mode": "custom",
+            "max_width": 100,
+            "mobile_max_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YW69tj",
+        "heading_ikniMM",
+        "richtext_6kR9gK",
+        "subheading_FmkYYq",
+        "image_P6zh8G"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_grid_EzRhPM": {
       "type": "media-grid",
       "blocks": {
@@ -260,6 +317,42 @@
         "background_gradient": ""
       }
     },
+    "impact_text_rtHqgW": {
+      "type": "impact-text",
+      "blocks": {
+        "item_4yHXyj": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_4yHXyj"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "slideshow_gYUmpd": {
       "type": "slideshow",
       "blocks": {
@@ -299,42 +392,6 @@
         "cycle_speed": 6,
         "background": "#F2F2F2",
         "background_gradient": ""
-      }
-    },
-    "impact_text_rtHqgW": {
-      "type": "impact-text",
-      "blocks": {
-        "item_4yHXyj": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_4yHXyj"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "feature_chart_Yagh4d": {
@@ -635,9 +692,10 @@
     "main",
     "1747832443d73c2912",
     "tabs_jGjhgj",
+    "rich_text_wQUKke",
     "media_grid_EzRhPM",
-    "slideshow_gYUmpd",
     "impact_text_rtHqgW",
+    "slideshow_gYUmpd",
     "feature_chart_Yagh4d",
     "slideshow_q49ncm",
     "testimonials_KgEjPL",
