@@ -65,6 +65,10 @@
             "size_chart_page": ""
           }
         },
+        "separator_4axMVk": {
+          "type": "separator",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -91,6 +95,7 @@
         "separator",
         "description",
         "variant_picker",
+        "separator_4axMVk",
         "quantity_selector",
         "buy_buttons"
       ],
