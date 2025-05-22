@@ -152,6 +152,14 @@
     "tabs_jGjhgj": {
       "type": "tabs",
       "blocks": {
+        "tab_UUeCFd": {
+          "type": "tab",
+          "settings": {
+            "title": "Description",
+            "content": "<h3>One Daily Chew. Lifelong Wellness.</h3><p><strong>Human-grade multivitamin soft chews</strong> for dogs crafted with <strong>12 clinically-proven ingredients</strong> to support your pup’s health from the inside out.</p><p><strong>✔️ Five core health benefits</strong> in every bite<br/><strong>✔️ Vet-formulated for daily use</strong><br/><strong>✔️ Delicious & gentle — even for sensitive stomachs</strong><br/><strong>✔️ Safe for all dogs 3 months and up</strong></p><p>Help your dog feel their best — every single day.</p><p><strong>Choose their favorite flavor below.</strong></p>",
+            "page": ""
+          }
+        },
         "tab_CPjcpU": {
           "type": "tab",
           "settings": {
@@ -170,6 +178,7 @@
         }
       },
       "block_order": [
+        "tab_UUeCFd",
         "tab_CPjcpU",
         "tab_kwqtzL"
       ],
@@ -402,7 +411,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -508,7 +517,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
