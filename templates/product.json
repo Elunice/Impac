@@ -39,7 +39,7 @@
         "offer_ThyQdm": {
           "type": "offer",
           "settings": {
-            "text_alignment": "start",
+            "text_alignment": "center",
             "icon_position": "aligned",
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/cruelty_free_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png",
