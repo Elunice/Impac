@@ -154,10 +154,10 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "#740f0f",
+        "input_background": "#ffffff",
         "input_text_color": ""
       }
     },
