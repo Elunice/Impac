@@ -12,16 +12,28 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_7k3N4E": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.9</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(20 934 notes)</span>\n    </a>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "liquid_7k3N4E": {
-          "type": "liquid",
+        "text_ViQpMe": {
+          "type": "text",
           "settings": {
-            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.9</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(20 934 notes)</span>\n    </a>"
+            "text": "<h4>100% Human-Grade Ingredients</h4>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
           }
         },
         "badges": {
@@ -43,12 +55,6 @@
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -104,13 +110,14 @@
         }
       },
       "block_order": [
-        "title",
         "liquid_7k3N4E",
+        "title",
+        "text_ViQpMe",
+        "description",
         "badges",
         "price",
         "rating",
         "payment_terms",
-        "description",
         "variant_picker",
         "separator_4axMVk",
         "quantity_selector",
