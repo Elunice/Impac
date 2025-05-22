@@ -40,12 +40,12 @@
           "type": "offer",
           "settings": {
             "text_alignment": "center",
-            "icon_position": "aligned",
+            "icon_position": "stacked",
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/cruelty_free_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png",
             "icon_width": 36,
             "title": "",
-            "content": "<p>The human-grade multivitamin soft chews for key nutritional support & long-term health in one daily treat.<br/></p><ul><li>12 clinically-backed ingredients</li><li>Suitable for all dogs 3 months +</li><li>Five essential health benefits in one</li></ul>",
+            "content": "<p><strong>The human-grade multivitamin soft chews for key nutritional support & long-term health in one daily treat.<br/></strong></p><ul><li><strong>12 clinically-backed ingredients</strong></li><li><strong>Suitable for all dogs 3 months +</strong></li><li><strong>Five essential health benefits in one</strong></li></ul>",
             "background": "#f0f0f0",
             "text_color": "#1a1a1a"
           }
