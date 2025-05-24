@@ -152,7 +152,7 @@
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 65,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": false,
@@ -215,6 +215,7 @@
     },
     "custom_liquid_rJYJny": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -723,13 +724,13 @@
     "main",
     "tabs_jGjhgj",
     "custom_liquid_rJYJny",
+    "testimonials_KgEjPL",
     "rich_text_wQUKke",
     "media_grid_EzRhPM",
     "impact_text_rtHqgW",
     "slideshow_gYUmpd",
     "tabs_jkkTi6",
     "slideshow_q49ncm",
-    "testimonials_KgEjPL",
     "faq_EJg7pM",
     "related-products"
   ]
