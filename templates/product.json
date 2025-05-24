@@ -227,6 +227,66 @@
         "text_color": ""
       }
     },
+    "testimonials_KgEjPL": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_Kkbp7e": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sarah C.",
+            "title": "We have two Frenchies",
+            "content": "<p>We have one Frenchie that prefers beef, the other prefers chicken, so we tried both. This helped clear up their paw licking, and seems to be doing a good job keeping them healthier.<br/><br/></p>"
+          }
+        },
+        "testimonial_LMJaPp": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Andrea U.",
+            "title": "No more itchy skin!",
+            "content": "<p>For several months both dogs have had such a difficult time with itchy skin, dull coat, and constant paw-licking. After many products, Dog is Human multivitamins, has finally begun to resolve these issues. Thank you for the great product! Simon and Jezzy than you too.<br/><br/></p>"
+          }
+        },
+        "testimonial_xidhkz": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lynda A.",
+            "title": "So good the other pup was jealous!",
+            "content": "<p>Decided to try these for one of my labs who has bad skin allergies and after about a month of these the redness and itchiness went away mostly! Our other lab was so jealous of the special snack his brother was getting that we started giving it to him too and his already shiny coat got even more glossy which we didn’t think was possible!<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Kkbp7e",
+        "testimonial_LMJaPp",
+        "testimonial_xidhkz"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "rich_text_wQUKke": {
       "type": "rich-text",
       "blocks": {
@@ -550,66 +610,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
-      }
-    },
-    "testimonials_KgEjPL": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_Kkbp7e": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sarah C.",
-            "title": "We have two Frenchies",
-            "content": "<p>We have one Frenchie that prefers beef, the other prefers chicken, so we tried both. This helped clear up their paw licking, and seems to be doing a good job keeping them healthier.<br/><br/></p>"
-          }
-        },
-        "testimonial_LMJaPp": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Andrea U.",
-            "title": "No more itchy skin!",
-            "content": "<p>For several months both dogs have had such a difficult time with itchy skin, dull coat, and constant paw-licking. After many products, Dog is Human multivitamins, has finally begun to resolve these issues. Thank you for the great product! Simon and Jezzy than you too.<br/><br/></p>"
-          }
-        },
-        "testimonial_xidhkz": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Lynda A.",
-            "title": "So good the other pup was jealous!",
-            "content": "<p>Decided to try these for one of my labs who has bad skin allergies and after about a month of these the redness and itchiness went away mostly! Our other lab was so jealous of the special snack his brother was getting that we started giving it to him too and his already shiny coat got even more glossy which we didn’t think was possible!<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_Kkbp7e",
-        "testimonial_LMJaPp",
-        "testimonial_xidhkz"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
       }
     },
     "faq_EJg7pM": {
