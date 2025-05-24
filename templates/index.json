@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Dog_is_Human_Selects_DKS_033_1.jpg",
+            "image": "shopify://shop_images/accessories_613d0b07ee_2f88fe9767.jpg",
             "mobile_image": "shopify://shop_images/Dog_is_Human_Selects_DKS_010_7.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -59,8 +59,36 @@
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images__23_-removebg-preview.png",
             "mobile_icon_width": 76,
+            "icon_width": 72,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_BJiaUf": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/images_26.png",
+            "mobile_icon_width": 76,
             "icon_width": 120,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_jcLM8Q": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/images__23_-removebg-preview.png",
+            "mobile_icon_width": 76,
+            "icon_width": 72,
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "",
@@ -74,7 +102,7 @@
             "custom_icon": "shopify://shop_images/images__22_-removebg-preview.png",
             "mobile_icon_width": 80,
             "icon_width": 104,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "",
@@ -86,9 +114,9 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/images__24_-removebg-preview.png",
-            "mobile_icon_width": 84,
+            "mobile_icon_width": 72,
             "icon_width": 120,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
             "title": "",
@@ -98,6 +126,8 @@
       },
       "block_order": [
         "item_V36qa4",
+        "item_BJiaUf",
+        "item_jcLM8Q",
         "item_rqTnCH",
         "item_VUURAH"
       ],
