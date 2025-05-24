@@ -71,7 +71,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images_26.png",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_86.png",
             "mobile_icon_width": 76,
             "icon_width": 120,
             "icon_background_type": "none",
@@ -85,9 +85,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/images__23_-removebg-preview.png",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_88.png",
             "mobile_icon_width": 76,
-            "icon_width": 72,
+            "icon_width": 120,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
