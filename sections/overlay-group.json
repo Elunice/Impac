@@ -37,7 +37,7 @@
         "show_cart_note": false,
         "show_shipping_text": false,
         "show_view_cart_button": false,
-        "show_checkout_button": true,
+        "show_checkout_button": false,
         "recommendations_title": "Trending this month",
         "products": [],
         "product_card_background": "#68b6fe",
@@ -46,11 +46,12 @@
     },
     "search-drawer": {
       "type": "search-drawer",
+      "disabled": true,
       "settings": {
         "full_width": false,
-        "show_article_category": true,
+        "show_article_category": false,
         "search_menu": "",
-        "search_menu_show_title": true
+        "search_menu_show_title": false
       }
     }
   },
