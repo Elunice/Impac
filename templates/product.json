@@ -180,7 +180,7 @@
         "tab_CPjcpU": {
           "type": "tab",
           "settings": {
-            "title": "Informations sur le service",
+            "title": "Serving Information",
             "content": "<p>Serve the chews each morning with food or just as a stand-alone treat.</p><ul><li>Dog’s WeightServings / Day</li><li>0-25 lbs1 Chew</li><li>25-75 lbs2 Chews</li><li>75+ lbs3 Chews</li><li><em>** Each jar contains 60 chews</em></li></ul>",
             "page": ""
           }
@@ -199,7 +199,6 @@
         "tab_CPjcpU",
         "tab_kwqtzL"
       ],
-      "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "large",
@@ -216,7 +215,6 @@
     "custom_liquid_rJYJny": {
       "type": "custom-liquid",
       "disabled": true,
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -269,7 +267,6 @@
         "testimonial_LMJaPp",
         "testimonial_xidhkz"
       ],
-      "name": "Testimonials",
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
@@ -334,7 +331,6 @@
         "subheading_FmkYYq",
         "image_P6zh8G"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -419,7 +415,6 @@
         "image_P7xKKM",
         "image_z8afmD"
       ],
-      "name": "Media grid",
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -448,7 +443,6 @@
       "block_order": [
         "item_4yHXyj"
       ],
-      "name": "Impact text",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -493,7 +487,6 @@
       "block_order": [
         "image_Nk7XLU"
       ],
-      "name": "Slideshow",
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -557,7 +550,6 @@
         "tab_46jY6T",
         "tab_QBifWR"
       ],
-      "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -599,7 +591,6 @@
       "block_order": [
         "image_XAPJeC"
       ],
-      "name": "Slideshow",
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -674,7 +665,6 @@
         "item_i9NxTx",
         "item_UDT7xW"
       ],
-      "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
