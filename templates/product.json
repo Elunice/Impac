@@ -51,6 +51,12 @@
             "text_color": "#1a1a1a"
           }
         },
+        "liquid_jfQ4rr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    color: #fa9121; /* Couleur du texte modifiée */\n  }\n</style>\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(250, 145, 33, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(250, 145, 33)\"></circle>\n</svg>   Only a few items left</p>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -135,6 +141,7 @@
         "text_ViQpMe",
         "description",
         "offer_ThyQdm",
+        "liquid_jfQ4rr",
         "badges",
         "price",
         "rating",
