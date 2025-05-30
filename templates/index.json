@@ -158,7 +158,7 @@
           "settings": {
             "style": "fill",
             "size": "base",
-            "text": "Shop Now",
+            "text": "Achetez-ici",
             "url": "shopify://collections/all",
             "background": "#2d2f73",
             "text_color": ""
@@ -434,8 +434,8 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
+        "subheading": "Contactez-nous",
+        "title": "Avez-vous des questions ?",
         "content": "",
         "text_position": "start",
         "contact_form_size": "large",
@@ -456,22 +456,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Expédiez-vous à l’international ?",
+            "content": "<p>Oui, nous expédions partout dans le monde. Les frais de livraison s’appliquent et seront ajoutés lors du paiement. Nous proposons des réductions et promotions tout au long de l’année, alors restez à l’affût pour profiter d’offres exclusives.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Quel est le délai de livraison de ma commande ?",
+            "content": "<p><strong>Cela dépend de votre localisation.</strong><br/><br/>Les commandes traitées localement arrivent généralement sous 5 à 7 jours ouvrables.<br/><br/>Les livraisons à l’étranger peuvent prendre entre 7 et 16 jours.<br/><br/>Les détails de la livraison vous seront communiqués dans votre e-mail de confirmation.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "D'autres questions",
+            "content": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons ravis de vous aider.</p><p></p>"
           }
         }
       },
@@ -484,10 +484,10 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "<p><strong>Utilisez ce texte pour informer vos clients sur votre produit ou vos politiques d’expédition.</strong></p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre service client est disponible du lundi au vendredi, de 8h00 à 20h30.",
+        "answer_time": "Délai moyen de réponse : 24 heures",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
