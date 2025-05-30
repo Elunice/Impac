@@ -21,9 +21,9 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Dog Health at theHighest StandardStarting with a simple vet-formulatedmultivitamin for daily health.",
+            "title": "La santé de votre chien, selon les normes les plus exigeantes.Tout commence par un simple multivitamine formulé par des vétérinaires, à prendre chaque jour pour une santé optimale.",
             "heading_tag": "h3",
-            "button_text": "Shop Now",
+            "button_text": "Achetez-ici",
             "button_link": "shopify://products/2025-chews-dog-repellent-chewable-tablets-suit-for-the-dog-over-25lbs-contains-flaxseed-and-vitamin-complex",
             "text_color": "#ffffff",
             "button_background": "#68b6fe",
@@ -150,7 +150,7 @@
         "richtext_EgAzHc": {
           "type": "richtext",
           "settings": {
-            "content": "<h3></h3><h3></h3><h3><em><strong>Health is more than human</strong></em></h3>"
+            "content": "<h3></h3><h3></h3><h3><br/><em><strong>Parce que la santé ne s’arrête pas à l’humain</strong></em><br/><br/></h3>"
           }
         },
         "button_f4DYDB": {
@@ -298,7 +298,7 @@
           "settings": {
             "logo_width": 100,
             "author": "Dr. Jessica Edmeier, DVM",
-            "content": "\"Dog is Human is definitely one of the most exciting brands in pet health. Their commitment to Human-Grade ingredients is refreshing compared to conventional brands.\"",
+            "content": "« Elunice est sans aucun doute l’une des marques les plus prometteuses dans le domaine de la santé animale. Leur engagement envers des ingrédients de qualité humaine apporte un vrai vent de fraîcheur face aux marques traditionnelles. »",
             "show_rating": false,
             "rating": 4
           }
