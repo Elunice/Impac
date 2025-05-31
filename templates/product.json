@@ -46,7 +46,7 @@
             "custom_icon": "shopify://shop_images/cruelty_free_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png",
             "icon_width": 36,
             "title": "",
-            "content": "<p><strong>The human-grade multivitamin soft chews for key nutritional support & long-term health in one daily treat.<br/></strong></p><ul><li><strong>12 clinically-backed ingredients</strong></li><li><strong>Suitable for all dogs 3 months +</strong></li><li><strong>Five essential health benefits in one</strong></li></ul>",
+            "content": "<p><strong>Les friandises molles multivitaminées de qualité humaine<br/><br/>Un soutien nutritionnel clé et une santé durable réunis en une seule friandise quotidienne.<br/></strong></p><ul><li><strong>12 ingrédients cliniquement validés</strong></li><li><strong>Convient à tous les chiens dès 3 mois</strong></li><li><strong>5 bienfaits essentiels en un seul produit<br/></strong><br/></li></ul>",
             "background": "#f0f0f0",
             "text_color": "#1a1a1a"
           }
@@ -54,7 +54,7 @@
         "liquid_jfQ4rr": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    color: #fa9121; /* Couleur du texte modifiée */\n  }\n</style>\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(250, 145, 33, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(250, 145, 33)\"></circle>\n</svg>   Only a few items left</p>"
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    color: #fa9121; /* Couleur du texte modifiée */\n  }\n</style>\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(250, 145, 33, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(250, 145, 33)\"></circle>\n</svg>   Plus que 5 en stock.</p>"
           }
         },
         "badges": {
@@ -180,15 +180,15 @@
           "type": "tab",
           "settings": {
             "title": "Description",
-            "content": "<h3>One Daily Chew. Lifelong Wellness.</h3><p><strong>Human-grade multivitamin soft chews</strong> for dogs crafted with <strong>12 clinically-proven ingredients</strong> to support your pup’s health from the inside out.</p><p><strong>✔️ Five core health benefits</strong> in every bite<br/><strong>✔️ Vet-formulated for daily use</strong><br/><strong>✔️ Delicious & gentle — even for sensitive stomachs</strong><br/><strong>✔️ Safe for all dogs 3 months and up</strong></p><p>Help your dog feel their best — every single day.</p><p><strong>Choose their favorite flavor below.</strong></p>",
+            "content": "<p><strong>Une bouchée quotidienne. Un bien-être à vie.</strong><br/><br/>Des friandises molles multivitaminées de qualité humaine, conçues avec 12 ingrédients cliniquement prouvés pour soutenir la santé de votre chien de l’intérieur.</p><p>✔️ Cinq bienfaits essentiels à chaque bouchée<br/><br/>✔️ Formulées par des vétérinaires pour un usage quotidien<br/><br/>✔️ Délicieuses et douces, même pour les estomacs sensibles<br/><br/>✔️ Sûres pour tous les chiens dès 3 mois</p><p>Aidez votre chien à se sentir au meilleur de sa forme… chaque jour.<br/><br/>Choisissez sa saveur préférée ci-dessous.</p>",
             "page": ""
           }
         },
         "tab_CPjcpU": {
           "type": "tab",
           "settings": {
-            "title": "Serving Information",
-            "content": "<p>Serve the chews each morning with food or just as a stand-alone treat.</p><ul><li>Dog’s WeightServings / Day</li><li>0-25 lbs1 Chew</li><li>25-75 lbs2 Chews</li><li>75+ lbs3 Chews</li><li><em>** Each jar contains 60 chews</em></li></ul>",
+            "title": "Conseils d’utilisation",
+            "content": "<p>Donnez les bouchées chaque matin, avec la nourriture ou simplement en friandise.<br/><br/>Dosage recommandé selon le poids de votre chien :<br/><br/><strong>• 0 - 11 kg (0-25 lbs) : 1 bouchée par jour<br/><br/>• 11 - 34 kg (25-75 lbs) : 2 bouchées par jour<br/><br/>• Plus de 34 kg (75+ lbs) : 3 bouchées par jour</strong><br/><br/>Chaque pot contient 60 bouchées.</p>",
             "page": ""
           }
         },
@@ -196,7 +196,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingredients",
-            "content": "<ul><li>Active IngredientQuantity (Per chew)</li><li>​​Glucosamine HCl (shrimp and crab)200 MG</li><li>Methylsulfonylmethane (MSM)100 MG</li><li>Total Microorganisms DDS-1 (Lactobacillus acidophilus) ProDURA (Bacillus coagulans) Enterococcus faecium500 million CFU</li><li>Wild Alaskan Salmon Oil95 MG</li><li>Vitamin A1000 IU</li><li>CoQ1010 MG</li><li>Natural Vitamin E4 IU</li><li>Riboflavin (Vitamin B2)1 MG</li><li>Pyridoxine (Vitamin B6)1 MG</li><li>Folic Acid (Vitamin B9)0.22 MG</li><li>Methylcobalamin (Vitamin B12)0.005 MG</li><li>Vitamin D30.002 MG</li></ul><p>      <br/>         *<a href=\"https://dogishuman.com/products/multivitamin?selling_plan=1445724221#\"><em>Inactive Ingredients:</em></a><em>chicken liver, coconut glycerin, coconut oil, brewers yeast, buffered white distilled vinegar, citric acid, natural hickory smoke flavor, rosemary extract, sunflower lecithin, sunflower oil, tapioca starch</em></p>",
+            "content": "<p><strong>Ingrédients actifs (par bouchée) :</strong></p><ul><li><br/>Glucosamine HCl (crevette et crabe) 200 mg</li><li><br/>Méthylsulfonylméthane (MSM) 100 mg</li><li><br/>Micro-organismes totaux DDS-1 (Lactobacillus acidophilus), ProDURA (Bacillus coagulans), Enterococcus faecium 500 millions UFC</li><li><br/>Huile de saumon sauvage d’Alaska 95 mg</li><li><br/>Vitamine A 1000 UI</li><li><br/>CoQ10 10 mg</li><li><br/>Vitamine E naturelle 4 UI</li><li><br/>Riboflavine (Vitamine B2) 1 mg</li><li><br/>Pyridoxine (Vitamine B6) 1 mg<br/></li><li><br/>Acide folique (Vitamine B9) 0,22 mg</li><li><br/>Méthylcobalamine (Vitamine B12) 0,005 mg</li><li><br/>Vitamine D3 0,002 mg<br/><br/></li></ul><p><strong>Ingrédients inactifs :</strong><br/><br/>Foie de poulet, glycérine de coco, huile de coco, levure de bière, vinaigre blanc distillé tamponné, acide citrique, arôme naturel fumé de hickory, extrait de romarin, lécithine de tournesol, huile de tournesol, amidon de tapioca.</p>",
             "page": ""
           }
         }
@@ -242,8 +242,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Sarah C.",
-            "title": "We have two Frenchies",
-            "content": "<p>We have one Frenchie that prefers beef, the other prefers chicken, so we tried both. This helped clear up their paw licking, and seems to be doing a good job keeping them healthier.<br/><br/></p>"
+            "title": "Nous avons deux Bouledogues français",
+            "content": "<p>Nous avons un Bouledogue français qui préfère le bœuf, l’autre préfère le poulet, alors nous avons essayé les deux. Cela a permis de réduire leur léchage de pattes et semble bien contribuer à leur meilleure santé.</p>"
           }
         },
         "testimonial_LMJaPp": {
@@ -253,8 +253,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Andrea U.",
-            "title": "No more itchy skin!",
-            "content": "<p>For several months both dogs have had such a difficult time with itchy skin, dull coat, and constant paw-licking. After many products, Dog is Human multivitamins, has finally begun to resolve these issues. Thank you for the great product! Simon and Jezzy than you too.<br/><br/></p>"
+            "title": "Fini les démangeaisons !",
+            "content": "<p>Pendant plusieurs mois, nos deux chiens ont souffert de démangeaisons, de poils ternes et d’un léchage constant des pattes. Après avoir essayé de nombreux produits, les multivitamines Dog is Human ont enfin commencé à résoudre ces problèmes. Merci pour ce superbe produit ! Simon et Jezzy vous remercient également.</p>"
           }
         },
         "testimonial_xidhkz": {
@@ -264,8 +264,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Lynda A.",
-            "title": "So good the other pup was jealous!",
-            "content": "<p>Decided to try these for one of my labs who has bad skin allergies and after about a month of these the redness and itchiness went away mostly! Our other lab was so jealous of the special snack his brother was getting that we started giving it to him too and his already shiny coat got even more glossy which we didn’t think was possible!<br/><br/></p>"
+            "title": "Tellement efficace que l’autre toutou en est devenu jaloux !",
+            "content": "<p>J’ai fait essayer ces bouchées à un de mes labradors souffrant d’allergies cutanées. Après un mois, rougeurs et démangeaisons ont presque disparu ! Le deuxième, jaloux, a aussi eu sa friandise, et son pelage s’est encore embelli.</p>"
           }
         }
       },
@@ -303,8 +303,8 @@
         "heading_ikniMM": {
           "type": "heading",
           "settings": {
-            "text": "Formulated and Praised by Leading Vets",
-            "heading_tag": "h1",
+            "text": "Formulé et recommandé par les vétérinaires de renom",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -312,7 +312,7 @@
         "richtext_6kR9gK": {
           "type": "richtext",
           "settings": {
-            "content": "<p>\"DM-01 is the most effective, well-rounded supplement on the market. I would recommend it to any dog parent looking for comprehensive, daily support.\"</p>"
+            "content": "<p><strong>« DM-01 est le complément le plus efficace et complet du marché. Je le recommande à tous les propriétaires de chiens souhaitant un soutien quotidien global. »</strong></p>"
           }
         },
         "subheading_FmkYYq": {
@@ -438,7 +438,7 @@
           "type": "item",
           "settings": {
             "title": "98%",
-            "subheading": "Customer satisfaction.",
+            "subheading": "Satisfaction client",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -513,7 +513,7 @@
           "type": "tab",
           "settings": {
             "title": "Glucosamine HCI",
-            "content": "<p>Glucosamine Hydrochloride is a natural amino sugar that reduces joint pain for dogs. Glucosamine assists in joint lubrication, helps maintain healthy cartilage, and sustains connective tissue.</p>",
+            "content": "<p>La glucosamine hydrochloride est un amino-sucre naturel qui réduit les douleurs articulaires chez le chien. Elle favorise la lubrification des articulations, aide à maintenir un cartilage sain et soutient les tissus conjonctifs.</p>",
             "page": ""
           }
         },
@@ -521,31 +521,31 @@
           "type": "tab",
           "settings": {
             "title": "MSM",
-            "content": "<p>Methylsulfonylmethane (MSM) is a natural antioxidant that reduces inflammation, stiffness, and hip, joint, and muscle pain in dogs. MSM also provides additional protection against infection.</p>",
+            "content": "<p>Le méthylsulfonylméthane (MSM) est un antioxydant naturel qui réduit l'inflammation, la raideur ainsi que les douleurs au niveau des hanches, des articulations et des muscles chez le chien. Le MSM offre également une protection supplémentaire contre les infections.</p>",
             "page": ""
           }
         },
         "tab_DKW7t8": {
           "type": "tab",
           "settings": {
-            "title": "Proprietary Probiotic Blend",
-            "content": "<p>Probiotics are a friendly kind of bacteria necessary for the proper absorption of vitamins and minerals. They support your dog’s immune system, foster a healthy microbiome, and assist with digestion.</p>",
+            "title": "Mélange de probiotiques",
+            "content": "<p>Les probiotiques sont des bactéries bénéfiques indispensables à une bonne absorption des vitamines et minéraux. Ils renforcent le système immunitaire de votre chien, favorisent un microbiome sain et facilitent la digestion.</p>",
             "page": ""
           }
         },
         "tab_46jY6T": {
           "type": "tab",
           "settings": {
-            "title": "Wild Alaskan Salmon Oil",
-            "content": "<p>Packed with Omega-3 and Omega-6 fatty acids, Wild Alaskan Salmon Oil provides a range of benefits including improved cognition, healthier skin and coat, and immune system boosts.</p>",
+            "title": "Huile de saumon sauvage d’Alaska",
+            "content": "<p>Riche en acides gras Oméga-3 et Oméga-6, l’huile de saumon sauvage d’Alaska offre de nombreux bienfaits, notamment une meilleure cognition, une peau et un pelage plus sains, ainsi qu’un renforcement du système immunitaire.</p>",
             "page": ""
           }
         },
         "tab_QBifWR": {
           "type": "tab",
           "settings": {
-            "title": "Vitamin A",
-            "content": "<p>Vitamin A is a necessary vitamin for dogs that supports skin, coat, muscle, and organ system health. Vitamin A heightens your dog’s immune response by increasing mucus levels in the body, providing better protection against infection.</p>",
+            "title": "Vitamine A",
+            "content": "<p>La vitamine A est essentielle pour les chiens, elle soutient la santé de la peau, du pelage, des muscles et des organes. Elle renforce également le système immunitaire en augmentant la production de mucus, offrant ainsi une meilleure protection contre les infections.</p>",
             "page": ""
           }
         }
@@ -560,8 +560,8 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "The Formulation",
-        "title": "Made with only 12 essential activeingredients.",
+        "subheading": "La composition",
+        "title": "Formulé avec seulement 12 ingrédients actifs essentiels.",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
@@ -617,49 +617,49 @@
           "type": "item",
           "settings": {
             "title": "At what age can my pup start using these?",
-            "content": "<p>The Multivitamin is suitable for dogs of all ages and breeds. However, we do recommend dogs begin to incorporate the chews into their daily routine starting at an age of 3 months or older.<br/><br/></p>"
+            "content": "<p>Le multivitamine convient aux chiens de toutes races et âges. Toutefois, nous recommandons d’introduire les bouchées dans leur routine quotidienne à partir de l’âge de 3 mois révolus.<br/></p>"
           }
         },
         "item_9Ymm3B": {
           "type": "item",
           "settings": {
-            "title": "What does 100% Human-Grade mean?",
-            "content": "<p>Most pet supplements from other brands contain palm oil, fillers, artificial flavoring, preservatives, etc. At Dog is Human, we’re raising the standards of pet health by only using the highest quality human-grade ingredients, which is what our best friends deserve.</p>"
+            "title": "Que signifie \"100 % qualité humaine\" ?",
+            "content": "<p>La plupart des compléments pour animaux d’autres marques contiennent de l’huile de palme, des agents de remplissage, des arômes artificiels, des conservateurs, etc. Chez Dog is Human, nous élevons les standards de la santé animale en n’utilisant que des ingrédients de qualité humaine supérieure, car c’est ce que nos meilleurs amis méritent.</p>"
           }
         },
         "item_qybqqH": {
           "type": "item",
           "settings": {
-            "title": "How long until I start seeing the benefits?",
-            "content": "<p>The benefits that most dogs feel—less itching, more activity, better mood—are just bonuses to improving their long-term health. If taken consistently on a daily basis, most dogs will start to see positive effects in about 6-8 weeks.<br/><br/></p>"
+            "title": "Combien de temps avant de constater les premiers bienfaits ?",
+            "content": "<p>Les bienfaits que ressentent la plupart des chiens — moins de démangeaisons, plus d’énergie, une meilleure humeur — ne sont que des bonus à l’amélioration de leur santé sur le long terme. Pris régulièrement chaque jour, la majorité des chiens commencent à voir des effets positifs au bout de 6 à 8 semaines.<br/><br/></p>"
           }
         },
         "item_87wbt3": {
           "type": "item",
           "settings": {
-            "title": "How many chews come in a jar?",
+            "title": "Combien de friandises contient un pot ?",
             "content": "<p>There are 60 Chews in each jar, which is a 2 month supply for Small Dogs (0-25 lbs), 1 month supply for Medium Dogs (25-75 lbs), or 3 week supply for Large Dogs (75+ lbs).</p>"
           }
         },
         "item_BKf3F4": {
           "type": "item",
           "settings": {
-            "title": "What flavor is the Multivitamin?",
-            "content": "<p>Our Multivitamin is made with the highest quality human-grade chicken liver, a flavor that dogs absolutely love. In the case of a chicken allergy, get our Beef Multivitamin</p>"
+            "title": "Quel est goût ont les Multivitamines ?",
+            "content": "<p>Notre multivitamine est élaborée avec du foie de poulet de qualité humaine supérieure, une saveur que les chiens adorent. En cas d’allergie au poulet, optez pour notre multivitamine au bœuf.</p>"
           }
         },
         "item_i9NxTx": {
           "type": "item",
           "settings": {
-            "title": "What happens if I accidentally give my dog too many chews?",
-            "content": "<p>In the event that your dog accidentally consumes significantly more than the daily recommended dose, consult your vet for advice.</p>"
+            "title": "Que se passe-t-il si je donne accidentellement trop de bouchées à mon chien ?",
+            "content": "<p>Si votre chien consomme accidentellement une quantité bien supérieure à la dose journalière recommandée, consultez votre vétérinaire pour obtenir des conseils.</p>"
           }
         },
         "item_UDT7xW": {
           "type": "item",
           "settings": {
-            "title": "Can I take this dog multivitamin with other supplements?",
-            "content": "<p>Our veterinary team formulated DM-01 with natural ingredients that can be taken both alone or as a complementary product with other common and more targeted pet supplements. Nevertheless, we still recommend checking with your vet.</p>"
+            "title": "Puis-je donner ce multivitamine pour chien en même temps que d’autres compléments ?",
+            "content": "<p>Notre équipe vétérinaire a formulé le DM-01 avec des ingrédients naturels, utilisables seuls ou en complément d’autres suppléments courants et plus ciblés pour animaux. Néanmoins, nous vous recommandons toujours de consulter votre vétérinaire.</p>"
           }
         }
       },
@@ -676,10 +676,10 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<h3>We Want You To Question</h3>",
+        "content": "<h3><strong>Nous voulons que vous remettiez tout en question</strong></h3>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre service client est disponible du lundi au vendredi, de 8h à 20h30.",
+        "answer_time": "Délai moyen de réponse : 24 heures",
         "button_text": "",
         "button_url": "",
         "text_position": "center",

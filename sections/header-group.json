@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "💙 50% OFF – Today Only",
+            "text": "💙 -50 % – Offre valable uniquement aujourd’hui",
             "url": ""
           }
         },
         "message_pWAi9g": {
           "type": "message",
           "settings": {
-            "text": " 30-day guarantee & FREE SHIPPING",
+            "text": "Garantie 30 jours & LIVRAISON GRATUITE",
             "url": ""
           }
         }
