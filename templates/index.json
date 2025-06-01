@@ -343,12 +343,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -404,7 +398,6 @@
       "block_order": [
         "title",
         "badges",
-        "price",
         "rating",
         "separator",
         "image_HNXJfL",
