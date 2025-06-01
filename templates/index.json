@@ -359,10 +359,12 @@
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
+        "image_HNXJfL": {
+          "type": "image",
           "settings": {
-            "collapse_content": false
+            "image": "shopify://shop_images/ChatGPT_Image_1_juin_2025_18_53_09.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "variant-picker": {
@@ -405,7 +407,7 @@
         "price",
         "rating",
         "separator",
-        "description",
+        "image_HNXJfL",
         "variant-picker",
         "quantity-selector",
         "kaching_bundles_app_block_yqwXcc",
