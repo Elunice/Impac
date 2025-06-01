@@ -24,12 +24,6 @@
             "heading_tag": "h4"
           }
         },
-        "text_ViQpMe": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>100% d'ingrédients propres à la consommation humaine</h5>"
-          }
-        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -39,15 +33,24 @@
         },
         "offer_ThyQdm": {
           "type": "offer",
+          "disabled": true,
           "settings": {
             "text_alignment": "center",
             "icon_position": "stacked",
             "icon": "none",
-            "icon_width": 36,
+            "icon_width": 20,
             "title": "",
             "content": "<p><strong>Les friandises molles multivitaminées de qualité humaine<br/><br/>Un soutien nutritionnel clé et une santé durable réunis en une seule friandise quotidienne.<br/></strong></p><ul><li><strong>12 ingrédients cliniquement validés</strong></li><li><strong>Convient à tous les chiens dès 3 mois</strong></li><li><strong>5 bienfaits essentiels en un seul produit<br/></strong><br/></li></ul>",
             "background": "#cee1e8",
             "text_color": "#000000"
+          }
+        },
+        "image_Fbb78p": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_1_juin_2025_18_53_09.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "liquid_jfQ4rr": {
@@ -137,9 +140,9 @@
       "block_order": [
         "liquid_7k3N4E",
         "title",
-        "text_ViQpMe",
         "description",
         "offer_ThyQdm",
+        "image_Fbb78p",
         "liquid_jfQ4rr",
         "badges",
         "price",
