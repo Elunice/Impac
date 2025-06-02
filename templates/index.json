@@ -137,7 +137,7 @@
         "title": "",
         "heading_tag": "h5",
         "text_alignment": "center",
-        "icon_spacing": "small",
+        "icon_spacing": "medium",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -341,7 +341,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "bikini-epilator-for-women-dual-head-electric-razors-portable-wireless-hair-remover-smoothes-silky-wet-dry-face-body-epilator",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
