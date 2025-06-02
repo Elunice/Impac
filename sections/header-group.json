@@ -17,21 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "💙 -60 % – Offre valable uniquement aujourd’hui",
-            "url": ""
-          }
-        },
-        "message_pWAi9g": {
-          "type": "message",
-          "settings": {
-            "text": "Garantie 30 jours & LIVRAISON GRATUITE",
+            "text": "Announce something here",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_pWAi9g"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
@@ -47,16 +39,16 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": true,
-        "logo": "shopify://shop_images/raw-removebg-preview.png",
-        "logo_max_width": 100,
+        "hide_on_scroll": false,
+        "logo": "shopify://shop_images/ChatGPT_Image_2_juin_2025__19_46_09-removebg-preview_61b6d5d9-32db-42f2-9d77-0fa1dc19213d.png",
+        "logo_max_width": 180,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
-        "layout": "drawer",
+        "layout": "logo_left_navigation_center",
         "show_social_media": true,
         "show_locale_selector": true,
         "show_country_selector": true,
@@ -64,7 +56,7 @@
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
         "reduce_padding": false,
-        "background_opacity": 0,
+        "background_opacity": 100,
         "background_blur_radius": 0
       }
     }
