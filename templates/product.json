@@ -12,70 +12,18 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_7k3N4E": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.9</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(20 934 avis)</span>\n    </a>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h4"
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "offer_ThyQdm": {
-          "type": "offer",
-          "disabled": true,
-          "settings": {
-            "text_alignment": "center",
-            "icon_position": "stacked",
-            "icon": "none",
-            "icon_width": 20,
-            "title": "",
-            "content": "<p><strong>Les friandises molles multivitaminées de qualité humaine<br/><br/>Un soutien nutritionnel clé et une santé durable réunis en une seule friandise quotidienne.<br/></strong></p><ul><li><strong>12 ingrédients cliniquement validés</strong></li><li><strong>Convient à tous les chiens dès 3 mois</strong></li><li><strong>5 bienfaits essentiels en un seul produit<br/></strong><br/></li></ul>",
-            "background": "#cee1e8",
-            "text_color": "#000000"
-          }
-        },
-        "separator_QBAMBT": {
-          "type": "separator",
-          "settings": {}
-        },
-        "image_Fbb78p": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_1_juin_2025_18_53_09.png",
-            "alignment": "center",
-            "max_width": 500
+            "heading_tag": "h2"
           }
         },
         "badges": {
           "type": "badges",
           "settings": {}
         },
-        "liquid_n6w7KW": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <style>\n        .cls-xj7hJ9K {\n            display: flex;\n            align-items: center;\n            font-family: Arial, sans-serif;\n            color: #fa9121;\n        }\n        .icon-xj7hJ9K {\n            margin-right: 8px;\n            color: #fa9121;\n            width: 8px; /* Genişlik ayarı */\n            height: 8px; /* Yükseklik ayarı */\n            animation: blink-xj7hJ9K 1s infinite, glow-xj7hJ9K 1.5s infinite;\n        }\n        @keyframes blink-xj7hJ9K {\n            0%, 100% {\n                opacity: 1;\n            }\n            50% {\n                opacity: 0.2;\n            }\n        }\n        @keyframes glow-xj7hJ9K {\n            0% {\n                text-shadow: 0 0 5px #fa9121;\n            }\n            50% {\n                text-shadow: 0 0 20px #fa9121;\n            }\n            100% {\n                text-shadow: 0 0 5px #fa9121;\n            }\n        }\n    </style>\n</head>\n<body class=\"body-xj7hJ9K\">\n    <div class=\"cls-xj7hJ9K\">\n        <!-- SVG cercle orange avec animation -->\n        <svg class=\"icon-xj7hJ9K\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" viewBox=\"0 0 16 16\">\n            <circle cx=\"8\" cy=\"8\" r=\"8\" />\n        </svg>\n        <span>Plus que 5 en stock</span>\n    </div>\n</body>\n</html>"
-          }
-        },
-        "liquid_CbkVGW": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Shipping Information</title>\n    <style>\n        body.unique-body-Ship987 {\n            font-family: 'Arial', sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f0f2f5;\n        }\n        .unique-shipping-info-Info654 {\n            display: flex;\n            align-items: center;\n            background-color: #fff;\n            padding: 10px 20px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n            font-size: 14px;\n            color: #333;\n            margin: 2px;\n        }\n        .unique-shipping-info-Info654 img {\n            margin-right: 8px;\n        }\n        .unique-shipping-info-Info654 span {\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Ship987\">\n    <div class=\"unique-shipping-info-Info654\">\n        <img src=\"https://www.svgrepo.com/show/314607/shipping-fast-solid.svg\" alt=\"Shipping Icon\" width=\"20\" height=\"20\">\n        <span>Livraison gratuite</span>\n    </div>\n</body>\n</html>"
-          }
-        },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -90,31 +38,14 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "separator_4axMVk": {
+        "separator": {
           "type": "separator",
-          "disabled": true,
           "settings": {}
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
-        },
-        "kaching_bundles_app_block_WLcn9A": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+        "description": {
+          "type": "description",
           "settings": {
-            "product": "{{product}}"
+            "collapse_content": false
           }
         },
         "buy_buttons": {
@@ -122,615 +53,62 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#68b6fe",
-            "atc_button_text_color": "#ffffff",
+            "atc_button_background": "",
+            "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "conversion_bear_trust_badges_widget_RLhNnQ": {
-          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {}
         }
       },
       "block_order": [
-        "liquid_7k3N4E",
         "title",
-        "description",
-        "offer_ThyQdm",
-        "separator_QBAMBT",
-        "image_Fbb78p",
         "badges",
-        "liquid_n6w7KW",
-        "liquid_CbkVGW",
         "price",
         "rating",
         "payment_terms",
-        "variant_picker",
-        "separator_4axMVk",
-        "quantity_selector",
-        "kaching_bundles_app_block_WLcn9A",
-        "buy_buttons",
-        "conversion_bear_trust_badges_widget_RLhNnQ"
+        "separator",
+        "description",
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
-        "desktop_media_width": 65,
-        "desktop_media_layout": "grid_highlight",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "#ffffff",
+        "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
     },
-    "tabs_jGjhgj": {
-      "type": "tabs",
-      "blocks": {
-        "tab_UUeCFd": {
-          "type": "tab",
-          "settings": {
-            "title": "Description",
-            "content": "<p><strong>Une bouchée quotidienne. Un bien-être à vie.</strong><br/><br/>Des friandises molles multivitaminées de qualité humaine, conçues avec 12 ingrédients cliniquement prouvés pour soutenir la santé de votre chien de l’intérieur.</p><p>✔️ Cinq bienfaits essentiels à chaque bouchée<br/><br/>✔️ Formulées par des vétérinaires pour un usage quotidien<br/><br/>✔️ Délicieuses et douces, même pour les estomacs sensibles<br/><br/>✔️ Sûres pour tous les chiens dès 3 mois</p><p>Aidez votre chien à se sentir au meilleur de sa forme… chaque jour.<br/><br/>Choisissez sa saveur préférée ci-dessous.</p>",
-            "page": ""
-          }
-        },
-        "tab_CPjcpU": {
-          "type": "tab",
-          "settings": {
-            "title": "Conseils d’utilisation",
-            "content": "<p>Donnez les bouchées chaque matin, avec la nourriture ou simplement en friandise.<br/><br/>Dosage recommandé selon le poids de votre chien :<br/><br/><strong>• 0 - 11 kg (0-25 lbs) : 1 bouchée par jour<br/><br/>• 11 - 34 kg (25-75 lbs) : 2 bouchées par jour<br/><br/>• Plus de 34 kg (75+ lbs) : 3 bouchées par jour</strong><br/><br/>Chaque pot contient 60 bouchées.</p>",
-            "page": ""
-          }
-        },
-        "tab_kwqtzL": {
-          "type": "tab",
-          "settings": {
-            "title": "Ingredients",
-            "content": "<p><strong>Ingrédients actifs (par bouchée) :</strong></p><ul><li><br/>Glucosamine HCl (crevette et crabe) 200 mg</li><li><br/>Méthylsulfonylméthane (MSM) 100 mg</li><li><br/>Micro-organismes totaux DDS-1 (Lactobacillus acidophilus), ProDURA (Bacillus coagulans), Enterococcus faecium 500 millions UFC</li><li><br/>Huile de saumon sauvage d’Alaska 95 mg</li><li><br/>Vitamine A 1000 UI</li><li><br/>CoQ10 10 mg</li><li><br/>Vitamine E naturelle 4 UI</li><li><br/>Riboflavine (Vitamine B2) 1 mg</li><li><br/>Pyridoxine (Vitamine B6) 1 mg<br/></li><li><br/>Acide folique (Vitamine B9) 0,22 mg</li><li><br/>Méthylcobalamine (Vitamine B12) 0,005 mg</li><li><br/>Vitamine D3 0,002 mg<br/><br/></li></ul><p><strong>Ingrédients inactifs :</strong><br/><br/>Foie de poulet, glycérine de coco, huile de coco, levure de bière, vinaigre blanc distillé tamponné, acide citrique, arôme naturel fumé de hickory, extrait de romarin, lécithine de tournesol, huile de tournesol, amidon de tapioca.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_UUeCFd",
-        "tab_CPjcpU",
-        "tab_kwqtzL"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "large",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "custom_liquid_rJYJny": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Reviews Trustpilot - Mobile Optimized</title>\n    <style>\n        * {\n            box-sizing: border-box;\n        }\n\n        .trustpilot-reviews-section {\n            display: flex;\n            justify-content: space-between;\n            align-items: flex-start;\n            padding: 40px 20px;\n            background-color: #fff;\n            position: relative;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n\n        .trustpilot-summary {\n            flex-basis: 20%;\n            text-align: left;\n            padding-right: 30px;\n        }\n\n        .trustpilot-summary h2 {\n            font-size: 32px;\n            font-weight: 600;\n            margin-bottom: 15px;\n            color: #000;\n        }\n\n        .trustpilot-stars {\n            margin-bottom: 10px;\n        }\n\n        .trustpilot-stars img {\n            width: 120px;\n            height: auto;\n        }\n\n        .rating-text {\n            font-size: 16px;\n            color: #333;\n            margin-bottom: 8px;\n        }\n\n        .trustpilot-logo {\n            width: 100px;\n            height: auto;\n        }\n\n        .review-carousel {\n            display: flex;\n            flex-basis: 75%;\n            overflow: hidden;\n            position: relative;\n            gap: 20px;\n        }\n\n        .review-card {\n            min-width: 300px;\n            padding: 20px;\n            background-color: #fff;\n            border: 1px solid #e0e0e0;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);\n            flex-shrink: 0;\n            position: relative;\n        }\n\n        .review-stars {\n            margin-bottom: 8px;\n        }\n\n        .review-stars img {\n            width: 80px;\n            height: auto;\n        }\n\n        .verified-badge {\n            display: inline-flex;\n            align-items: center;\n            gap: 5px;\n            font-size: 14px;\n            color: #666;\n            margin-bottom: 8px;\n        }\n\n        .verified-icon {\n            width: 16px;\n            height: 16px;\n            background-color: #666;\n            border-radius: 50%;\n            display: inline-block;\n        }\n\n        .review-time {\n            color: #999;\n            font-size: 14px;\n            text-align: right;\n            margin-bottom: 12px;\n        }\n\n        .review-content {\n            font-size: 15px;\n            line-height: 1.4;\n            color: #333;\n            margin-bottom: 15px;\n        }\n\n        .review-author {\n            font-weight: 600;\n            color: #000;\n            font-size: 14px;\n        }\n\n        .nav-arrow {\n            position: absolute;\n            top: 50%;\n            transform: translateY(-50%);\n            background-color: #fff;\n            border: 2px solid #ddd;\n            border-radius: 50%;\n            width: 40px;\n            height: 40px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            cursor: pointer;\n            transition: background-color 0.3s ease, box-shadow 0.3s ease;\n            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n            z-index: 10;\n        }\n\n        .nav-arrow:hover {\n            background-color: #f0f0f0;\n            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n        }\n\n        .arrow-left {\n            left: -20px; \n        }\n\n        .arrow-right {\n            right: -20px; \n        }\n\n        .nav-arrow::before {\n            content: '';\n            display: block;\n            border: solid #333;\n            border-width: 0 3px 3px 0;\n            padding: 5px;\n        }\n\n        .arrow-left::before {\n            transform: rotate(135deg);\n        }\n\n        .arrow-right::before {\n            transform: rotate(-45deg);\n        }\n\n        /* Indicateurs de défilement pour mobile */\n        .scroll-indicators {\n            display: none;\n            justify-content: center;\n            margin-top: 15px;\n            gap: 8px;\n        }\n\n        .scroll-dot {\n            width: 8px;\n            height: 8px;\n            border-radius: 50%;\n            background-color: #ddd;\n            transition: background-color 0.3s ease;\n            cursor: pointer;\n        }\n\n        .scroll-dot.active {\n            background-color: #333;\n        }\n\n        /* Responsive Design */\n        @media (max-width: 1024px) {\n            .trustpilot-reviews-section {\n                padding: 30px 15px;\n            }\n            \n            .trustpilot-summary {\n                flex-basis: 25%;\n                padding-right: 20px;\n            }\n            \n            .review-carousel {\n                flex-basis: 70%;\n            }\n            \n            .review-card {\n                min-width: 280px;\n            }\n        }\n\n        @media (max-width: 768px) {\n            .trustpilot-reviews-section {\n                flex-direction: column;\n                padding: 25px 15px;\n                gap: 25px;\n            }\n\n            .trustpilot-summary {\n                flex-basis: 100%;\n                text-align: center; \n                padding-right: 0;\n                margin-bottom: 0;\n            }\n\n            .trustpilot-summary h2 {\n                font-size: 28px;\n                margin-bottom: 12px;\n            }\n\n            .trustpilot-stars img {\n                width: 100px;\n            }\n\n            .trustpilot-logo {\n                width: 80px;\n            }\n\n            .rating-text {\n                font-size: 15px;\n            }\n\n            .review-carousel {\n                flex-basis: 100%;\n                overflow-x: auto;\n                overflow-y: hidden;\n                scroll-snap-type: x mandatory;\n                -webkit-overflow-scrolling: touch;\n                scrollbar-width: none;\n                -ms-overflow-style: none;\n                gap: 15px;\n                padding: 0 5px 10px 5px;\n            }\n\n            .review-carousel::-webkit-scrollbar {\n                display: none;\n            }\n\n            .review-card {\n                min-width: 280px;\n                max-width: 280px;\n                scroll-snap-align: start;\n                padding: 18px;\n            }\n\n            .review-content {\n                font-size: 14px;\n                line-height: 1.5;\n            }\n\n            .nav-arrow {\n                display: none;\n            }\n\n            .scroll-indicators {\n                display: flex;\n            }\n        }\n\n        @media (max-width: 480px) {\n            .trustpilot-reviews-section {\n                padding: 20px 10px;\n                gap: 20px;\n            }\n\n            .trustpilot-summary h2 {\n                font-size: 24px;\n            }\n\n            .trustpilot-stars img {\n                width: 90px;\n            }\n\n            .trustpilot-logo {\n                width: 70px;\n            }\n\n            .review-carousel {\n                gap: 12px;\n                padding: 0 2px 8px 2px;\n            }\n\n            .review-card {\n                min-width: 260px;\n                max-width: 260px;\n                padding: 16px;\n            }\n\n            .review-content {\n                font-size: 13px;\n            }\n\n            .review-stars img {\n                width: 70px;\n            }\n\n            .verified-badge {\n                font-size: 13px;\n            }\n\n            .review-time {\n                font-size: 13px;\n            }\n\n            .review-author {\n                font-size: 13px;\n            }\n        }\n\n        @media (max-width: 360px) {\n            .review-card {\n                min-width: 240px;\n                max-width: 240px;\n                padding: 14px;\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"trustpilot-reviews-section\">\n        <div class=\"trustpilot-summary\">\n            <h2>Excellent</h2>\n            <div class=\"trustpilot-stars\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n            </div>\n            <p class=\"rating-text\">Évalué 4.8/5 - 1,292 avis</p>\n            <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/Trustpilot_logo.png?v=1727197788\" alt=\"Trustpilot logo\" class=\"trustpilot-logo\">\n        </div>\n\n        <div class=\"review-carousel\" id=\"review-carousel\">\n            <div class=\"review-card\">\n                <div class=\"review-stars\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n                </div>\n                <div class=\"verified-badge\">\n                    <span class=\"verified-icon\"></span>\n                    Vérifié\n                </div>\n                <div class=\"review-time\">Il y a 1 jour</div>\n                <div class=\"review-content\">\n                   This vitamin has been a game changer for our three pups. Their coats are softer and silkier, their skin issues have nearly disappeared, and they love taking them like treats every AM! Thanks for making our pups a happy and healthy crew!\n\n                </div>\n                <div class=\"review-author\">- Sarah C.</div>\n            </div>\n            \n            <div class=\"review-card\">\n                <div class=\"review-stars\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n                </div>\n                <div class=\"verified-badge\">\n                    <span class=\"verified-icon\"></span>\n                    Vérifié\n                </div>\n                <div class=\"review-time\">Il y a 3 jours</div>\n                <div class=\"review-content\">\n                   I’ve been giving our Hannah this multivitamin for a few months now and all the benefits stated by Dog is Human are true! Her coat is healthy, her itching has been reduced and she has more energy than ever for an 8 year old. I’m so happy and so is she.\n                </div>\n                <div class=\"review-author\">- Anna G.</div>\n            </div>\n\n            <div class=\"review-card\">\n                <div class=\"review-stars\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n                </div>\n                <div class=\"verified-badge\">\n                    <span class=\"verified-icon\"></span>\n                    Vérifié\n                </div>\n                <div class=\"review-time\">Il y a 1 jour</div>\n                <div class=\"review-content\">\n                   These vitamins have changed both of my dogs lives I have two senior dogs and they are so active and lively like puppies\n\n                </div>\n                <div class=\"review-author\">- Joyce D.</div>\n            </div>\n\n            <div class=\"review-card\">\n                <div class=\"review-stars\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n                </div>\n                <div class=\"verified-badge\">\n                    <span class=\"verified-icon\"></span>\n                    Vérifié\n                </div>\n                <div class=\"review-time\">Il y a 2 jours</div>\n                <div class=\"review-content\">\n                   Saw significant improvement in my pups symptoms since I started giving him the supplement. Thank you !\n\n                </div>\n                <div class=\"review-author\">- Marie L.</div>\n            </div>\n\n            <div class=\"review-card\">\n                <div class=\"review-stars\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n                </div>\n                <div class=\"verified-badge\">\n                    <span class=\"verified-icon\"></span>\n                    Vérifié\n                </div>\n                <div class=\"review-time\">Il y a 4 jours</div>\n                <div class=\"review-content\">\nMy dog loves them and is no longer itching, his coat is also much shinier everyone has noticed the changed in his coat !!!! Love love love \n                </div>\n                <div class=\"review-author\">- Claire B.</div>\n            </div>\n        </div>\n\n        <!-- Flèches de navigation (masquées sur mobile) -->\n        <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\" aria-label=\"Avis précédent\"></button>\n        <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\" aria-label=\"Avis suivant\"></button>\n\n        <!-- Indicateurs de défilement pour mobile -->\n        <div class=\"scroll-indicators\" id=\"scroll-indicators\">\n            <span class=\"scroll-dot active\" onclick=\"scrollToReview(0)\"></span>\n            <span class=\"scroll-dot\" onclick=\"scrollToReview(1)\"></span>\n            <span class=\"scroll-dot\" onclick=\"scrollToReview(2)\"></span>\n            <span class=\"scroll-dot\" onclick=\"scrollToReview(3)\"></span>\n            <span class=\"scroll-dot\" onclick=\"scrollToReview(4)\"></span>\n        </div>\n    </div>\n\n    <script>\n        const reviewCarousel = document.getElementById('review-carousel');\n        const indicators = document.querySelectorAll('.scroll-dot');\n        let currentIndex = 0;\n\n        function scrollReviews(direction) {\n            const scrollAmount = 340; \n            reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n        }\n\n        function scrollToReview(index) {\n            const cardWidth = 295; // largeur de la carte + gap\n            reviewCarousel.scrollTo({ left: index * cardWidth, behavior: 'smooth' });\n            updateIndicators(index);\n        }\n\n        function updateIndicators(activeIndex) {\n            indicators.forEach((dot, index) => {\n                dot.classList.toggle('active', index === activeIndex);\n            });\n            currentIndex = activeIndex;\n        }\n\n        // Mise à jour automatique des indicateurs pendant le défilement\n        reviewCarousel.addEventListener('scroll', function() {\n            if (window.innerWidth <= 768) {\n                const scrollLeft = reviewCarousel.scrollLeft;\n                const cardWidth = 295;\n                const newIndex = Math.round(scrollLeft / cardWidth);\n                \n                if (newIndex !== currentIndex && newIndex < indicators.length) {\n                    updateIndicators(newIndex);\n                }\n            }\n        });\n\n        // Support du défilement tactile amélioré sur mobile\n        let isScrolling = false;\n        \n        reviewCarousel.addEventListener('touchstart', function() {\n            isScrolling = true;\n        });\n\n        reviewCarousel.addEventListener('touchend', function() {\n            setTimeout(() => {\n                isScrolling = false;\n            }, 150);\n        });\n    </script>\n</body>\n</html>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "testimonials_KgEjPL": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_Kkbp7e": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/ovxcg66kr4didtbff9rd6fkg3mp4.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sarah C.",
-            "title": "Nous avons deux Bouledogues français",
-            "content": "<p>Nous avons un Bouledogue français qui préfère le bœuf, l’autre préfère le poulet, alors nous avons essayé les deux. Cela a permis de réduire leur léchage de pattes et semble bien contribuer à leur meilleure santé.</p>"
-          }
-        },
-        "testimonial_LMJaPp": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/hbtswxuj4rk7l9l18rd70p7svqbv.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Andrea U.",
-            "title": "Fini les démangeaisons !",
-            "content": "<p>Pendant plusieurs mois, nos deux chiens ont souffert de démangeaisons, de poils ternes et d’un léchage constant des pattes. Après avoir essayé de nombreux produits, les multivitamines Dog is Human ont enfin commencé à résoudre ces problèmes. Merci pour ce superbe produit ! Simon et Jezzy vous remercient également.</p>"
-          }
-        },
-        "testimonial_xidhkz": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/0w70f3wz4l17yywzl5dw6iaypv62.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Lynda A.",
-            "title": "Tellement efficace que l’autre toutou en est devenu jaloux !",
-            "content": "<p>J’ai fait essayer ces bouchées à un de mes labradors souffrant d’allergies cutanées. Après un mois, rougeurs et démangeaisons ont presque disparu ! Le deuxième, jaloux, a aussi eu sa friandise, et son pelage s’est encore embelli.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_Kkbp7e",
-        "testimonial_LMJaPp",
-        "testimonial_xidhkz"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
-    "media_grid_EzRhPM": {
-      "type": "media-grid",
-      "blocks": {
-        "image_U7NqaH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/stella_b561791f-5bb8-4e59-a756-6b1aae8ba7a9.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_P7xKKM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_71.png",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_z8afmD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Dog_Reaching_1.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_U7NqaH",
-        "image_P7xKKM",
-        "image_z8afmD"
-      ],
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "rich_text_wQUKke": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_YW69tj": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_ikniMM": {
-          "type": "heading",
-          "settings": {
-            "text": "Formulé et recommandé par les vétérinaires de renom",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_6kR9gK": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>« DM-01 est le complément le plus efficace et complet du marché. Je le recommande à tous les propriétaires de chiens souhaitant un soutien quotidien global. »</strong></p>"
-          }
-        },
-        "subheading_FmkYYq": {
-          "type": "subheading",
-          "settings": {
-            "text": "Dr. Jessica Edmeier, DVM"
-          }
-        },
-        "image_P6zh8G": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_73.png",
-            "width_mode": "custom",
-            "max_width": 100,
-            "mobile_max_width": 100
-          }
-        }
-      },
-      "block_order": [
-        "subheading_YW69tj",
-        "heading_ikniMM",
-        "richtext_6kR9gK",
-        "subheading_FmkYYq",
-        "image_P6zh8G"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_grid_WK3hX6": {
-      "type": "media-grid",
-      "blocks": {
-        "image_E9nbQy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copie_de_Sans_titre_5.png",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_E9nbQy"
-      ],
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "impact_text_rtHqgW": {
-      "type": "impact-text",
-      "blocks": {
-        "item_4yHXyj": {
-          "type": "item",
-          "settings": {
-            "title": "98%",
-            "subheading": "Satisfaction client",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_4yHXyj"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "slideshow_gYUmpd": {
-      "type": "slideshow",
-      "blocks": {
-        "image_Nk7XLU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/allergy_itch_0bb9360c7b_9152349721.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Nk7XLU"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "tabs_jkkTi6": {
-      "type": "tabs",
-      "blocks": {
-        "tab_Q7ywm4": {
-          "type": "tab",
-          "settings": {
-            "title": "Glucosamine HCI",
-            "content": "<p>La glucosamine hydrochloride est un amino-sucre naturel qui réduit les douleurs articulaires chez le chien. Elle favorise la lubrification des articulations, aide à maintenir un cartilage sain et soutient les tissus conjonctifs.</p>",
-            "page": ""
-          }
-        },
-        "tab_NCQMAB": {
-          "type": "tab",
-          "settings": {
-            "title": "MSM",
-            "content": "<p>Le méthylsulfonylméthane (MSM) est un antioxydant naturel qui réduit l'inflammation, la raideur ainsi que les douleurs au niveau des hanches, des articulations et des muscles chez le chien. Le MSM offre également une protection supplémentaire contre les infections.</p>",
-            "page": ""
-          }
-        },
-        "tab_DKW7t8": {
-          "type": "tab",
-          "settings": {
-            "title": "Mélange de probiotiques",
-            "content": "<p>Les probiotiques sont des bactéries bénéfiques indispensables à une bonne absorption des vitamines et minéraux. Ils renforcent le système immunitaire de votre chien, favorisent un microbiome sain et facilitent la digestion.</p>",
-            "page": ""
-          }
-        },
-        "tab_46jY6T": {
-          "type": "tab",
-          "settings": {
-            "title": "Huile de saumon sauvage d’Alaska",
-            "content": "<p>Riche en acides gras Oméga-3 et Oméga-6, l’huile de saumon sauvage d’Alaska offre de nombreux bienfaits, notamment une meilleure cognition, une peau et un pelage plus sains, ainsi qu’un renforcement du système immunitaire.</p>",
-            "page": ""
-          }
-        },
-        "tab_QBifWR": {
-          "type": "tab",
-          "settings": {
-            "title": "Vitamine A",
-            "content": "<p>La vitamine A est essentielle pour les chiens, elle soutient la santé de la peau, du pelage, des muscles et des organes. Elle renforce également le système immunitaire en augmentant la production de mucus, offrant ainsi une meilleure protection contre les infections.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_Q7ywm4",
-        "tab_NCQMAB",
-        "tab_DKW7t8",
-        "tab_46jY6T",
-        "tab_QBifWR"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "La composition",
-        "title": "Formulé avec seulement 12 ingrédients actifs essentiels.",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "slideshow_q49ncm": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XAPJeC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/joints_335069223d_495d7d15c3.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_XAPJeC"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "faq_EJg7pM": {
-      "type": "faq",
-      "blocks": {
-        "item_9CfQU3": {
-          "type": "item",
-          "settings": {
-            "title": "At what age can my pup start using these?",
-            "content": "<p>Le multivitamine convient aux chiens de toutes races et âges. Toutefois, nous recommandons d’introduire les bouchées dans leur routine quotidienne à partir de l’âge de 3 mois révolus.<br/></p>"
-          }
-        },
-        "item_9Ymm3B": {
-          "type": "item",
-          "settings": {
-            "title": "Que signifie \"100 % qualité humaine\" ?",
-            "content": "<p>La plupart des compléments pour animaux d’autres marques contiennent de l’huile de palme, des agents de remplissage, des arômes artificiels, des conservateurs, etc. Chez Dog is Human, nous élevons les standards de la santé animale en n’utilisant que des ingrédients de qualité humaine supérieure, car c’est ce que nos meilleurs amis méritent.</p>"
-          }
-        },
-        "item_qybqqH": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps avant de constater les premiers bienfaits ?",
-            "content": "<p>Les bienfaits que ressentent la plupart des chiens — moins de démangeaisons, plus d’énergie, une meilleure humeur — ne sont que des bonus à l’amélioration de leur santé sur le long terme. Pris régulièrement chaque jour, la majorité des chiens commencent à voir des effets positifs au bout de 6 à 8 semaines.<br/><br/></p>"
-          }
-        },
-        "item_87wbt3": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de friandises contient un pot ?",
-            "content": "<p>There are 60 Chews in each jar, which is a 2 month supply for Small Dogs (0-25 lbs), 1 month supply for Medium Dogs (25-75 lbs), or 3 week supply for Large Dogs (75+ lbs).</p>"
-          }
-        },
-        "item_BKf3F4": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est goût ont les Multivitamines ?",
-            "content": "<p>Notre multivitamine est élaborée avec du foie de poulet de qualité humaine supérieure, une saveur que les chiens adorent. En cas d’allergie au poulet, optez pour notre multivitamine au bœuf.</p>"
-          }
-        },
-        "item_i9NxTx": {
-          "type": "item",
-          "settings": {
-            "title": "Que se passe-t-il si je donne accidentellement trop de bouchées à mon chien ?",
-            "content": "<p>Si votre chien consomme accidentellement une quantité bien supérieure à la dose journalière recommandée, consultez votre vétérinaire pour obtenir des conseils.</p>"
-          }
-        },
-        "item_UDT7xW": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je donner ce multivitamine pour chien en même temps que d’autres compléments ?",
-            "content": "<p>Notre équipe vétérinaire a formulé le DM-01 avec des ingrédients naturels, utilisables seuls ou en complément d’autres suppléments courants et plus ciblés pour animaux. Néanmoins, nous vous recommandons toujours de consulter votre vétérinaire.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_9CfQU3",
-        "item_9Ymm3B",
-        "item_qybqqH",
-        "item_87wbt3",
-        "item_BKf3F4",
-        "item_i9NxTx",
-        "item_UDT7xW"
-      ],
+    "before_after_image_CqH4EH": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "",
-        "content": "<h3><strong>Nous voulons que vous remettiez tout en question</strong></h3>",
-        "team_avatar_width": 160,
-        "support_hours": "Notre service client est disponible du lundi au vendredi, de 8h à 20h30.",
-        "answer_time": "Délai moyen de réponse : 24 heures",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "related-products": {
@@ -754,21 +132,62 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "accordion_content_7A9gND": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_EFUEgQ": {
+          "type": "item",
+          "settings": {
+            "title": "Question 1",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        },
+        "item_xmRQm6": {
+          "type": "item",
+          "settings": {
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        },
+        "item_rNaq8K": {
+          "type": "item",
+          "settings": {
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_EFUEgQ",
+        "item_xmRQm6",
+        "item_rNaq8K"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Heading",
+        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "tabs_jGjhgj",
-    "custom_liquid_rJYJny",
-    "testimonials_KgEjPL",
-    "media_grid_EzRhPM",
-    "rich_text_wQUKke",
-    "media_grid_WK3hX6",
-    "impact_text_rtHqgW",
-    "slideshow_gYUmpd",
-    "tabs_jkkTi6",
-    "slideshow_q49ncm",
-    "faq_EJg7pM",
-    "related-products"
+    "before_after_image_CqH4EH",
+    "related-products",
+    "accordion_content_7A9gND"
   ]
 }
