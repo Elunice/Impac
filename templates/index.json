@@ -15,7 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-02_210524.png",
+            "image": "shopify://shop_images/accessories_613d0b07ee_2f88fe9767.jpg",
+            "mobile_image": "shopify://shop_images/sub_benefits_05f3c565a5.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -98,7 +99,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/byrdie-logo.png",
             "mobile_icon_width": 24,
             "icon_width": 104,
             "icon_background_type": "circle",
@@ -112,7 +112,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/elle-logo.png",
             "mobile_icon_width": 24,
             "icon_width": 80,
             "icon_background_type": "circle",
@@ -211,7 +210,6 @@
         "item_ATd8Me": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_1686560376.png",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Image with text",
@@ -223,7 +221,6 @@
         "item_QBmKcx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_1686560377.png",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Heading 2",
@@ -235,7 +232,6 @@
         "item_pDYrMC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Frame_1686560378.png",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Heading 1",
