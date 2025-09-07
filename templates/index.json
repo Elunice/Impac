@@ -482,50 +482,57 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Qu’est-ce que HoneyGlow™ ?",
+            "content": "<p>HoneyGlow™ est un outil électronique de pédicure en alliage d’aluminium, au design élégant rose. Il élimine sans douleur les peaux mortes, callosités et talons secs grâce à ses 800 tours par minute. Sa poignée ergonomique et son branchement sur secteur vous offrent une utilisation simple, sans contrainte de batterie.</p>"
           }
         },
         "item_rdmgEw": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Comment utiliser HoneyGlow™ correctement ?",
+            "content": "<p>Il suffit de coller un disque neuf sur la tête, de brancher l’adaptateur secteur (prise EU incluse), puis d’appuyer sur le bouton ON. Choisissez la vitesse selon vos besoins : lente pour les retouches et rapide pour les zones épaisses. Passez l’appareil 1 à 2 minutes par pied sans appuyer trop fort.</p>"
           }
         },
         "item_M6ELey": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Quel disque dois-je choisir ?",
+            "content": "<p>Le disque doux (grain fin) est parfait pour les retouches et les finitions. Le disque moyen (grain moyen) convient à l’entretien régulier de la corne classique. Le disque rugueux (grain gros) est idéal pour les callosités épaisses ou les talons très secs et fissurés. Le coffret inclut 60 disques (30 rugueux et 30 fins) afin de couvrir tous les besoins.</p>"
           }
         },
         "item_AgztqN": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Est-ce que c’est douloureux ?",
+            "content": "<p>Non, HoneyGlow™ polit la peau sans la couper. Si vous avez la peau sensible, vous pouvez simplement commencer avec la vitesse basse pour un confort optimal.</p>"
           }
         },
         "item_8nxVR4": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Quelles sont les spécifications techniques ?",
+            "content": "<p>HoneyGlow™ fonctionne avec une tension de 12 V DC – 1,5 A et une vitesse de 800 tours par minute. Ses dimensions sont de 10,8 × 4,1 cm. L’adaptateur secteur est inclus, il vous suffit de brancher et d’utiliser.</p>"
           }
         },
         "item_pnt8Hb": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Convient-il aux diabétiques ou aux femmes enceintes ?",
+            "content": "<p>Par précaution, en cas de diabète, de troubles circulatoires ou de grossesse, il est recommandé de demander l’avis de votre médecin avant d’utiliser l’appareil.</p>"
           }
         },
         "item_VhYBgi": {
           "type": "item",
           "settings": {
-            "title": "",
-            "content": ""
+            "title": "Puis-je retourner mon produit ?",
+            "content": "<p>Oui, vous bénéficiez de 30 jours Satisfait ou Remboursé. Les conditions sont précisées dans notre Politique de retour.</p>"
+          }
+        },
+        "item_6RgLjz": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Votre commande est expédiée sous 24 à 48 heures. Le délai de livraison est de 5 à 10 jours ouvrés en France. Vous recevrez un e-mail et un SMS de suivi dès l’expédition.</p>"
           }
         }
       },
@@ -536,7 +543,8 @@
         "item_AgztqN",
         "item_8nxVR4",
         "item_pnt8Hb",
-        "item_VhYBgi"
+        "item_VhYBgi",
+        "item_6RgLjz"
       ],
       "settings": {
         "full_width": false,
