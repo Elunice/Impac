@@ -488,8 +488,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "",
+            "content": ""
           }
         },
         "item_BgxhkN": {
@@ -501,8 +501,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Heading",
-            "content": "<p>Short content about your store</p>"
+            "title": "",
+            "content": ""
           }
         },
         "item_ecqzhh": {
@@ -514,8 +514,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "",
+            "content": ""
           }
         },
         "item_iRUBmd": {
@@ -527,8 +527,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "title": "",
+            "content": ""
           }
         }
       },
