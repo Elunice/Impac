@@ -416,28 +416,18 @@
         "subheading_yXAGyf": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_wk38UE": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
+            "text": " ⏎ Essai sans risque 90 jours"
           }
         },
         "richtext_kyAfGR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Notre garantie de remboursement 90 jours est conçue pour couvrir toute la période de résultats. Donc, si ça ne marche pas, tu es intégralement remboursé.</p>"
           }
         }
       },
       "block_order": [
         "subheading_yXAGyf",
-        "heading_wk38UE",
         "richtext_kyAfGR"
       ],
       "name": "Rich text",
