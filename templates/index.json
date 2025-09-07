@@ -435,7 +435,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
         "background": "",
@@ -466,7 +466,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "start",
         "background": "",
@@ -476,110 +476,67 @@
         "heading_gradient": ""
       }
     },
-    "text_with_icons_xWdmpi": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_UdTUUV": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_BgxhkN": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_ecqzhh": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_iRUBmd": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_UdTUUV",
-        "item_BgxhkN",
-        "item_ecqzhh",
-        "item_iRUBmd"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "",
+            "content": ""
           }
         },
-        "166442457738b23caf-1": {
+        "item_rdmgEw": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "",
+            "content": ""
           }
         },
-        "166442457738b23caf-2": {
+        "item_M6ELey": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_AgztqN": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_8nxVR4": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_pnt8Hb": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_VhYBgi": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "content": ""
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_rdmgEw",
+        "item_M6ELey",
+        "item_AgztqN",
+        "item_8nxVR4",
+        "item_pnt8Hb",
+        "item_VhYBgi"
       ],
       "settings": {
         "full_width": false,
@@ -635,7 +592,6 @@
     "rich_text_bg8Da7",
     "images_with_text_scrolling_EWBwDX",
     "images_with_text_scrolling_H9XwTW",
-    "text_with_icons_xWdmpi",
     "faq",
     "contact_qB3RqW"
   ]
