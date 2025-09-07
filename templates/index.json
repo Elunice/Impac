@@ -442,6 +442,68 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_nUygUN": {
+      "type": "multi-column",
+      "blocks": {
+        "item_H8heDx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_2.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MnMriz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/FicheProduit9-ezgif.com-png-to-webp-converter.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_z8WWBh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_1.jpg",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_H8heDx",
+        "item_MnMriz",
+        "item_z8WWBh"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -525,6 +587,7 @@
     "rich_text_bg8Da7",
     "images_with_text_scrolling_H9XwTW",
     "images_with_text_scrolling_EWBwDX",
+    "multi_column_nUygUN",
     "faq",
     "contact_qB3RqW"
   ]
