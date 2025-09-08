@@ -407,37 +407,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_EWBwDX": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_fHmCPd": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/FicheProduit9-ezgif.com-png-to-webp-converter.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_fHmCPd"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "images_with_text_scrolling_H9XwTW": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -591,7 +560,6 @@
     "featured-product",
     "multi_column_nUygUN",
     "rich_text_bg8Da7",
-    "images_with_text_scrolling_EWBwDX",
     "images_with_text_scrolling_H9XwTW",
     "faq",
     "contact_qB3RqW"
