@@ -262,12 +262,6 @@
             "heading_tag": "h3"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -298,7 +292,6 @@
       },
       "block_order": [
         "title",
-        "price",
         "rating",
         "separator",
         "description",
