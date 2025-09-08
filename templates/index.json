@@ -445,6 +445,7 @@
       "block_order": [
         "item_tVgWR9"
       ],
+      "disabled": true,
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
