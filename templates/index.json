@@ -268,6 +268,18 @@
             "show_empty": false
           }
         },
+        "liquid_UQyAgd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Attention : seulement 6 restants</div>\n</div>"
+          }
+        },
+        "liquid_DyctHY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Rating Widget</title>\n    <style>\n        body.uniqueBody_Ty83Kl {\n            font-family: Arial, sans-serif;\n        }\n\n        .ratingWidget_Wp76Nm {\n            display: flex;\n            align-items: center;\n        }\n\n        .profileImages_Qw59Br {\n            display: flex;\n            align-items: center;\n            margin-right: 20px;\n        }\n\n        .profileImages_Qw59Br img {\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            margin-right: -10px;\n            border: 2px solid white;\n        }\n\n        .nameAndVerified_Xz24Ft {\n            display: flex;\n            align-items: center;\n            margin-left: 15px;\n            font-size: 12px;\n        }\n\n        .purchaseText_Ym34Gh {\n            font-size: 12px;\n            margin-left: 5px;\n        }\n\n        #purchase-count {\n            font-weight: bold;\n            color: #000000; /* Siyah renk */\n            font-size: 14px; /* Biraz daha büyük */\n        }\n\n        @font-face {\n            font-family: \"CustomIcons\";\n            src: url(\"https://fonts.gstatic.com/s/materialsymbolsoutlined/v54/1f6ad2e0e7c7b3724793c4d8709a24a5.woff2\") format(\"woff2\");\n        }\n    </style>\n</head>\n<body class=\"uniqueBody_Ty83Kl\">\n\n    <div class=\"ratingWidget_Wp76Nm\">\n        <div class=\"profileImages_Qw59Br\">\n            <img src=\"https://images.loox.io/uploads/2025/4/13/u8qjIWyGT.jpg\" alt=\"Profile 1\">\n            <img src=\"https://images.loox.io/uploads/2025/4/17/Ir_UGjehP.jpg\">\n            <img class=\"uniqueReviewImage_Tz89Lp\" src=\"https://cdn.shopify.com/s/files/1/0661/2431/6940/files/haar_haare_grauglanz_29_1.png?v=1685365698\" alt=\"Profile 3\">\n            <div class=\"nameAndVerified_Xz24Ft\">\n                <span>Déjà <span id=\"purchase-count\">470</span> clients satisfaits aujourd’hui</span>\n            </div>\n        </div>\n    </div>\n\n    <script>\n        let purchaseCount = 470;\n        const purchaseCountElement = document.getElementById(\"purchase-count\");\n\n        function updatePurchaseCount() {\n            // Her seferde 1, 2 veya bazen 3 artış miktarı\n            let incrementAmount = Math.floor(Math.random() * 3) + 1;\n            purchaseCount += incrementAmount;\n            purchaseCountElement.textContent = purchaseCount;\n\n            // Sonraki artış süresini rastgele 2 ila 8 saniye arasında belirle\n            const nextUpdateDelay = Math.floor(Math.random() * 6000) + 2000;\n\n            setTimeout(updatePurchaseCount, nextUpdateDelay);\n        }\n\n        updatePurchaseCount();\n    </script>\n\n</body>\n</html>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -299,6 +311,8 @@
       "block_order": [
         "title",
         "rating",
+        "liquid_UQyAgd",
+        "liquid_DyctHY",
         "separator",
         "description",
         "kaching_bundles_app_block_4TTiwW",
