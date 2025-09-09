@@ -537,29 +537,6 @@
         "heading_gradient": ""
       }
     },
-    "before_after_image_eH4CN8": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -684,7 +661,6 @@
     "multi_column_nUygUN",
     "rich_text_bg8Da7",
     "images_with_text_scrolling_H9XwTW",
-    "before_after_image_eH4CN8",
     "faq",
     "contact_qB3RqW"
   ]
