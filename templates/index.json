@@ -379,7 +379,7 @@
           "type": "tab",
           "settings": {
             "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Essayer Kit Beauté pour Pieds sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander <strong>un remboursement intégral</strong>.</p>",
             "page": ""
           }
         },
@@ -560,95 +560,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "text_with_icons_6MfpGH": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_yGxnhm": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_hkQW8q": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_cBKAE7": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_gDYfJH": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_heRrCW": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_yGxnhm",
-        "item_hkQW8q",
-        "item_cBKAE7",
-        "item_gDYfJH",
-        "item_heRrCW"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -774,7 +685,6 @@
     "rich_text_bg8Da7",
     "images_with_text_scrolling_H9XwTW",
     "before_after_image_eH4CN8",
-    "text_with_icons_6MfpGH",
     "faq",
     "contact_qB3RqW"
   ]
