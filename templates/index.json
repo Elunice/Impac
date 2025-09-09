@@ -354,24 +354,24 @@
         "tab_tVzdrn": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Comment l’utiliser ?",
+            "content": "<ol><li>Branche l’appareil.<br/></li><li>Choisis le disque (Doux ou Rugueux).<br/></li><li>Passe délicatement : 2 min max par pied.<br/></li><li>Enjoy ✨</li></ol>",
             "page": ""
           }
         },
         "tab_LrtMfe": {
           "type": "tab",
           "settings": {
-            "title": "Tab",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Bénéfices Clés",
+            "content": "<p>Pieds ultra-doux dès la 1ʳᵉ utilisation.<br/><br/>0 douleur, 0 effort : 2 min par pied.</p><p>Économique : remplace les séances pédicure en institut.<br/><br/>Résultats visibles & durables (moins de corne à chaque session).<br/><br/>Boost de confiance : sandales et talons assumés toute l’année.</p>",
             "page": ""
           }
         },
         "tab_43ing6": {
           "type": "tab",
           "settings": {
-            "title": "Tab",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Authenticité & Sécurité",
+            "content": "<p>HoneyGlow™ est certifié CE, testé sur tous types de peaux. Aucun produit chimique : seulement une abrasion douce contrôlée.</p>",
             "page": ""
           }
         },
