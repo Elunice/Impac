@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "OFFRE LIMITÉE VACANCES D'ÉTÉ -50%",
+            "url": ""
+          }
+        },
+        "message_fYHU8H": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_fYHU8H"
       ],
       "settings": {
         "enable_sticky": false,
